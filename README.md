@@ -29,11 +29,6 @@ To view and interact with the Valentine's Day Proposal page:
 - CSS3
 - JavaScript
 
-## Screenshots
-
-(Include screenshots of the interactive proposal page here)
-
-![Proposal Interaction](path/to/screenshot.png)
 
 ## Contributions
 
